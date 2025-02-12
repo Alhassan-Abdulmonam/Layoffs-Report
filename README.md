@@ -41,11 +41,5 @@ This Power BI dashboard provides insights into **global layoffs** across various
 
 ---
 
-### **4️⃣ Commit & Publish**  
-1. Click **"Commit new file"**.  
-2. Copy your repository link and **share it on LinkedIn, Twitter, or Medium**! 🚀  
 
----
-
-### ✅ **Done! Your GitHub now looks professional!**  
-Would you like a **GitHub Pages website** for this project? 🎉
+### ✅ **Done!
