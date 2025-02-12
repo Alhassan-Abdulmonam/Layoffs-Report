@@ -1,6 +1,6 @@
 # 🚀 Power BI Layoffs Dashboard  
 "A Power BI dashboard analyzing global layoffs trends by industry, company, and funding stage."
-![Power BI Dashboard](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/image.png)  
+![Power BI Dashboard](https://github.com/Alhassan-Abdulmonam/Layoffs-Report/blob/main/Layoffs.png)  
 
 ### 📊 Overview  
 This Power BI dashboard provides insights into **global layoffs** across various industries, companies, and funding stages.  
