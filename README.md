@@ -36,7 +36,7 @@ This Power BI dashboard provides insights into **global layoffs** across various
 
 ### 🔗 Connect With Me  
 📧 **Email**: [My Gmail](alhassanabdulmonam@gmail.com)  
-📂 **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/hassan-abdulmonam-)  
+📂 **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/hassan-abdulmonam-)  
 
 
 ---
